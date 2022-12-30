@@ -28,7 +28,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 - Create Resoure Group
 - Create Windows 10 and Linux (Ubuntu) VMs
 - Connect to Microsoft Remote Desktop
-- Download Wireshark (Network Protocal Analyzer)
+- Download Wireshark 
 - Observe Traffic for ICMP, SSH, DHCP, DNS, RDP
 
 <h2>Actions and Observations</h2>
